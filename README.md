@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13674286.svg)](http://dx.doi.org/10.5281/zenodo.13674286)
+[![DOI](https://zenodo.org/badge/doi/10.48550/arXiv.2211.08157.svg)](http://dx.doi.org/10.48550/arXiv.2211.08157)
+
 # Genome-on-Diet: Taming Large-Scale Genomic Analyses via Sparsified Genomics 
 
 We introduce the new concept of sparsified genomics where we systematically exclude a large number of bases from genomic sequences and enable the processing of the sparsified, shorter genomic sequence while maintaining the same or better accuracy than that of processing non-sparsified sequences. We deomonstrate significant benefits over sttate-of-the-art read mapper, minimap2.
